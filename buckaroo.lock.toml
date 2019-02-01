@@ -50,7 +50,7 @@ revision = "4d01d0f9c0ae3ae3cd20e3cbfddbc9909ce8e064"
 
 [lock."github.com/buckaroo-pm/boost-smart_ptr"]
 versions = [ "branch=master" ]
-revision = "7a147d3e6bead2fba47b60365fe1ae0c308768d5"
+revision = "894f4bae92fd47f51fa15a13247905195f914118"
 
 [lock."github.com/buckaroo-pm/boost-static_assert"]
 versions = [ "branch=master" ]
